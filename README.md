@@ -22,6 +22,8 @@ used in life sciences manufacturing.
 
 ## How to run
 pip install streamlit
+
+
 streamlit run app.py
 
 ## Key Concepts Demonstrated
