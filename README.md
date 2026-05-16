@@ -21,8 +21,7 @@ used in life sciences manufacturing.
 - State Machine Logic (via session_state)
 
 ## How to run
-pip install streamlit
-
+pip install streamlit <br>
 streamlit run app.py
 
 ## Key Concepts Demonstrated
